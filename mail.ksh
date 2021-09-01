@@ -1,4 +1,8 @@
 #!/usr/bin/ksh
+#-------------------------------------------------------------
+# Script Description
+# This Script is for fetching database table report in csv and sending via email
+# Author  : Ibrahim Patel
 
 . $HOME/.profile
 cd $HOME
